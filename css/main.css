@@ -1,0 +1,25 @@
+body{
+    
+}
+.font{
+    font-size: large;
+}
+.applicationId{
+    padding-top: 3%;
+}
+.input{
+    width: 26%;
+    height: 36%;
+}
+.button{
+    padding-top: 3%;
+}
+.screen{
+    width: 26%;
+    height: 46%;
+}
+.bigScreen{
+    text-align: center;
+    width: 94%;
+    height: 90%;
+}
