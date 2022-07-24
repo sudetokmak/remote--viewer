@@ -25,6 +25,7 @@ body{
     text-align: center;
     width: 93%;
     height: 90%;
+    border:1px solid #212529;
 }
 .hr{
     width: 93%;
