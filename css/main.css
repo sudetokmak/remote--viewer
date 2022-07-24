@@ -1,32 +1,6 @@
-body{
-    
-}
 .font{
     font-size: large;
 }
-.applicationId{
-    padding-top: 3%;
-}
-.input{
-    width: 26%;
-    height: 53%;
-}
-.button{
-    padding-top: 3%;
-}
-.watchBtn{
-    width: 50%;
-}
-.screen{
-    width: 26%;
-    height: 53%;
-}
 .bigScreen{
     text-align: center;
-    width: 93%;
-    height: 90%;
-    border:1px solid #212529;
-}
-.hr{
-    width: 93%;
 }
